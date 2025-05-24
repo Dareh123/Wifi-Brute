@@ -20,7 +20,21 @@ A tool to crack a wifi password with a help of wordlist. This may take long to c
 This tool is no longer updated, i have created ore advanced and fast version of it for windows. If you are intrested to buy dm me on telegram @coding_memz
 ![Screenshot 2023-07-13 151642](https://github.com/Cyber-Dioxide/Wifi-Brute/assets/93708296/10954859-f9d4-4312-8e2e-a64a89149532)
 
+# 🙌 Donate to Support Development
 
+If you find this tool useful and want to support future updates, you can donate in crypto:
+
+    BTC: 364wCdw46JBGwtk674N4Cj87ErWNVTNvBc
+
+    ETH: 0x4d2c6d55a7ab2874ef5fd172d78da6e553ab9126
+
+    USDT (TRC20): TSgLpf9AawGLnHYRFhp5XqNgLVk7Y7kZBg
+
+    SOL: 3VGJAH5n8NJFKFoC4GPZWay8QJrL5upd33i7WHMpcGpv
+
+    LTC: MASRzRJPy9UxuagdXqzcY9N89NvPMUreNj
+
+Your support helps keep the project alive and free for everyone. Thank you!
 
 # Telegram
 * Join Telegram Channel https://t.me/cyox2
